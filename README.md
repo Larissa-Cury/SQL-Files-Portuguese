@@ -1,6 +1,6 @@
 # SQL Files (Português)
 
-Neste repositório, você encontrará os arquivos .XLSX que eu desenvolvi para a elaboração dos exercícios resolvidos em SQL no meu canal do YouTube: [Larissa Cury - Análise de Dados](https://www.youtube.com/@LarissaCuryAn%C3%A1lisedeDados).
+Neste repositório, você encontrará os arquivos .SQL que eu desenvolvi para a elaboração dos exercícios resolvidos em SQL no meu canal do YouTube: [Larissa Cury - Análise de Dados](https://www.youtube.com/@LarissaCuryAn%C3%A1lisedeDados).
 
 ## EXERCÍCIOS COMPLEXOS (CONDICIONAIS + JOINS + SUBQUERIES + CTES + WINDOW FUNCTIONS)
 
